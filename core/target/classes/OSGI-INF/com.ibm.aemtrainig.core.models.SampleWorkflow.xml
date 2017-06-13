@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component immediate="false" name="com.ibm.aemtrainig.core.models.SampleWorkflow">
+        <implementation class="com.ibm.aemtrainig.core.models.SampleWorkflow"/>
+        <service servicefactory="false">
+            <provide interface="com.adobe.granite.workflow.exec.WorkflowProcess"/>
+        </service>
+        <property name="service.description" value="AA"/>
+        <property name="process.label" value="PoojaWorkflow"/>
+        <property name="service.vendor" value="Adobe"/>
+        <property name="service.pid" value="com.ibm.aemtrainig.core.models.SampleWorkflow"/>
+    </scr:component>
+</components>

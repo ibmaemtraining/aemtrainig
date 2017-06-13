@@ -1,0 +1,9 @@
+com/ibm/aemtrainig/core/models/SampleWorkflow.class
+com/ibm/aemtrainig/core/package-info.class
+com/ibm/aemtrainig/core/schedulers/SimpleScheduledTask.class
+com/ibm/aemtrainig/core/servlets/SampleServlet.class
+com/ibm/aemtrainig/core/filters/LoggingFilter.class
+com/ibm/aemtrainig/core/models/HelloWorldModel.class
+com/ibm/aemtrainig/core/listeners/SimpleResourceListener.class
+com/ibm/aemtrainig/core/servlets/SimpleServlet.class
+com/ibm/aemtrainig/core/models/SightlyClass.class

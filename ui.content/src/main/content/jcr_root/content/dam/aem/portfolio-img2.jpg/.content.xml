@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="e56ef973-76ac-4530-b2bc-8750b1b1087c">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="aemtraining/portfolio-img2.jpg"
+        jcr:lastModified="{Date}2017-06-13T10:22:34.737+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2017-06-13T10:22:34.256+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="3e71385f89271a15d15d5ba84037b41bad95b4e1"
+            dam:size="{Long}61180"
+            dc:format="image/jpeg"
+            exif:DateTimeOriginal="{Date}2014-12-10T13:25:57.000+05:30"
+            exif:ExposureTime="1/50"
+            exif:FNumber="24/5"
+            exif:FocalLength="48/1"
+            exif:ISOSpeedRatings="{Long}[400]"
+            exif:ISOSpeedRatings_xmpArrayType="rdf:Seq"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:DateCreated="{Date}2014-12-10T13:25:57.000+05:30"
+            tiff:ImageLength="{Long}426"
+            tiff:ImageWidth="{Long}640"
+            tiff:Make="NIKON CORPORATION"
+            tiff:Model="NIKON D3100">
+            <exif:Flash
+                exif:Fired="{Boolean}false"
+                exif:Function="{Boolean}false"
+                exif:Mode="{Long}2"
+                exif:RedEyeMode="{Boolean}false"
+                exif:Return="{Long}0"
+                jcr:primaryType="nt:unstructured"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,50 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1497353568819
+Build-Jdk: 1.8.0_131
+Built-By: poojabajaj
+Bundle-Description: Core bundle for aem62
+Bundle-ManifestVersion: 2
+Bundle-Name: aem62 - Core
+Bundle-SymbolicName: com.ibm.aemtrainig.core
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.ibm.aemtrainig.core.filters;uses:="javax.servlet";ve
+ rsion="0.0.1",com.ibm.aemtrainig.core.listeners;uses:="org.osgi.service
+ .event";version="0.0.1",com.ibm.aemtrainig.core.models;uses:="com.adobe
+ .cq.sightly,com.adobe.granite.workflow,com.adobe.granite.workflow.exec,
+ com.adobe.granite.workflow.metadata,javax.annotation,javax.inject,org.a
+ pache.sling.api.resource,org.apache.sling.models.annotations,org.slf4j"
+ ;version="0.0.1",com.ibm.aemtrainig.core;version="1.0",com.ibm.aemtrain
+ ig.core.schedulers;version="0.0.1",com.ibm.aemtrainig.core.servlets;use
+ s:="javax.servlet,org.apache.sling.api,org.apache.sling.api.servlets";v
+ ersion="0.0.1"
+Import-Package: com.adobe.cq.sightly;version="[3.1,4)",com.adobe.granite
+ .workflow;version="[1.0,2)",com.adobe.granite.workflow.exec;version="[1
+ .2,2)",com.adobe.granite.workflow.metadata;version="[1.0,2)",javax.anno
+ tation,javax.inject,javax.jcr;version="[2.0,3)",javax.servlet,org.apach
+ e.sling.api;version="[2.3,3)",org.apache.sling.api.request;version="[2.
+ 4,3)",org.apache.sling.api.resource;version="[2.10,3)",org.apache.sling
+ .api.servlets;version="[2.2,3)",org.apache.sling.commons.osgi;version="
+ [2.4,3)",org.apache.sling.models.annotations;version="[1.4,2)",org.apac
+ he.sling.settings;version="[1.3,2)",org.osgi.service.event;version="[1.
+ 3,2)",org.slf4j;version="[1.7,2)"
+Provide-Capability: osgi.service;effective:=active;objectClass="javax.se
+ rvlet.Servlet";service.vendor=Adobe,osgi.service;effective:=active;obje
+ ctClass="java.lang.Runnable";scheduler.expression="*/30 * * * * ?";sche
+ duler.concurrent=false;service.vendor=Adobe,osgi.service;effective:=act
+ ive;objectClass="javax.servlet.Filter";service.ranking=-700;sling.filte
+ r.scope=REQUEST;service.vendor=Adobe,osgi.service;effective:=active;obj
+ ectClass="org.osgi.service.event.EventHandler";event.topics="org/apache
+ /sling/api/resource/Resource/*";service.vendor=Adobe,osgi.service;effec
+ tive:=active;objectClass="com.adobe.granite.workflow.exec.WorkflowProce
+ ss";service.description=AA;process.label=PoojaWorkflow;service.vendor=A
+ dobe
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Service-Component: OSGI-INF/com.ibm.aemtrainig.core.servlets.SimpleServl
+ et.xml,OSGI-INF/com.ibm.aemtrainig.core.schedulers.SimpleScheduledTask.
+ xml,OSGI-INF/com.ibm.aemtrainig.core.filters.LoggingFilter.xml,OSGI-INF
+ /com.ibm.aemtrainig.core.listeners.SimpleResourceListener.xml,OSGI-INF/
+ com.ibm.aemtrainig.core.models.SampleWorkflow.xml,OSGI-INF/com.ibm.aemt
+ rainig.core.servlets.SampleServlet.xml
+Sling-Model-Packages: com.ibm.aemtrainig.core
+Tool: Bnd-2.3.0.201405100607

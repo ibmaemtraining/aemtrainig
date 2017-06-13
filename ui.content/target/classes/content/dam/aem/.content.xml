@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="sling:OrderedFolder">
+    <jcr:content
+        jcr:primaryType="nt:unstructured"
+        jcr:title="aemtraining">
+        <folderThumbnail/>
+    </jcr:content>
+    <about-img.jpg/>
+    <portfolio-img5.jpg/>
+    <portfolio-img4.jpg/>
+    <portfolio-img7.jpg/>
+    <portfolio-img8.jpg/>
+    <portfolio-img3.jpg/>
+    <portfolio-img1.jpg/>
+    <portfolio-img2.jpg/>
+    <portfolio-img6.jpg/>
+    <about.jpg/>
+    <team4.jpg/>
+    <team3.jpg/>
+    <team2.jpg/>
+    <team1.jpg/>
+    <home-bg.jpg/>
+    <prev.png/>
+    <prev_x0040_2x.png/>
+    <next_x0040_2x.png/>
+    <next.png/>
+    <close_x0040_2x.png/>
+    <close.png/>
+    <loading.gif/>
+    <loading_x0040_2x.gif/>
+</jcr:root>

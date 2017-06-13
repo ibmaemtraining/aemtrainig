@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:exifEX="http://cipa.jp/exif/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:psAux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="aa2fa70f-6eee-4253-b6af-fc5f17208900">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="aemtraining/portfolio-img6.jpg"
+        jcr:lastModified="{Date}2017-06-13T10:22:35.399+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2017-06-13T10:22:34.886+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="ee14b2b69f9de10c8bc710babfff0b55b7e86a56"
+            dam:size="{Long}62094"
+            dc:format="image/jpeg"
+            exif:DateTimeOriginal="{Date}2014-01-19T13:53:23.000+05:30"
+            exif:ExposureTime="1/200"
+            exif:FNumber="8/1"
+            exif:FocalLength="500/10"
+            exifEX:LensModel="50.0 mm f/1.8"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:DateCreated="{Date}2014-01-19T13:53:23.000+05:30"
+            psAux:Lens="50.0 mm f/1.8"
+            tiff:ImageLength="{Long}425"
+            tiff:ImageWidth="{Long}640"
+            tiff:Make="NIKON CORPORATION"
+            tiff:Model="NIKON D300"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

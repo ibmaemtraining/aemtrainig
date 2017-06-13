@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="3996ac31-7054-4433-b3d4-177e685edd90">
+    <jcr:content
+        dam:assetState="processed"
+        dam:relativePath="aemtraining/about-img.jpg"
+        jcr:lastModified="{Date}2017-06-13T10:21:49.248+05:30"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2017-06-13T10:21:46.246+05:30"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="yes"
+            dam:sha1="ecfa215fc2ff5760f795c6f256381ed4a997d619"
+            dam:size="{Long}30783"
+            dc:format="image/jpeg"
+            dc:title="Young business woman with her share of work at a meeting"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}506"
+            tiff:ImageWidth="{Long}760"
+            xmp:CreatorTool="Adobe Photoshop CS4 Macintosh"
+            xmpMM:DocumentID="xmp.did:6B0986B7117D11E5B0FBD1F5AFABC487"
+            xmpMM:InstanceID="xmp.iid:6B0986B6117D11E5B0FBD1F5AFABC487"
+            xmpMM:OriginalDocumentID="xmp.did:F97F117407206811A319B956C9ACF055"
+            xmpRights:Marked="{Boolean}true">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="uuid:D6C7F790EB16DF1195C0EDC7B11A07F3"
+                stRef:instanceID="xmp.iid:366C10C3200E1168A452DDF7FCCDB5E3"
+                xmpNodeType="xmpStruct"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

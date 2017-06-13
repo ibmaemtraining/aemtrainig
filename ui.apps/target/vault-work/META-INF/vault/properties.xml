@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>aem62 - UI apps</comment>
+<entry key="createdBy">poojabajaj</entry>
+<entry key="name">aemtrainig.ui.apps</entry>
+<entry key="created">2017-06-13T17:02:50.375+0530</entry>
+<entry key="groupId">com.ibm</entry>
+<entry key="version">0.0.1-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">aem62 Content Package</entry>
+<entry key="description">UI apps package for aem62</entry>
+<entry key="artifactId">aemtrainig.ui.apps</entry>
+<entry key="path">/etc/packages/aem62 Content Package/aemtrainig.ui.apps.zip</entry>
+</properties>
