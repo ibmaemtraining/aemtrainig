@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured">
+    <glyphicons_halflings0
+        jcr:primaryType="nt:unstructured"
+        family="GLYPHICONS Halflings"
+        fontFilePath="/Users/poojabajaj/Downloads/crx-quickstart/launchpad/felix/bundle440/data/FontFileProviderImpl_44bc1850f570972267b169ae18f1cb06b611ffa2.font"
+        fontPath="/apps/aemtraining/fonts/glyphicons-halflings-regular.ttf"
+        psName="GLYPHICONSHalflings-Regular"/>
+    <fontawesome0
+        jcr:primaryType="nt:unstructured"
+        family="FontAwesome"
+        fontFilePath="/Users/poojabajaj/Downloads/crx-quickstart/launchpad/felix/bundle440/data/FontFileProviderImpl_9088143b19979779b2116cef38b661f72d982e19.font"
+        fontPath="/apps/aemtraining/fonts/fontawesome-webfont.ttf"
+        psName="FontAwesome"/>
+    <lane___narrow0
+        jcr:primaryType="nt:unstructured"
+        family="Lane - Narrow"
+        fontFilePath="/Users/poojabajaj/Downloads/crx-quickstart/launchpad/felix/bundle440/data/FontFileProviderImpl_d6cd8a5030b604b7015b7a0635c99a28aedfe3a8.font"
+        fontPath="/apps/aemtraining/fonts/Lane-Narrow.ttf"
+        psName="Lane-Narrow"/>
+</jcr:root>

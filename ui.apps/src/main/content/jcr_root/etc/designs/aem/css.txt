@@ -1,0 +1,6 @@
+#base=css
+bootstrap.min.css
+/nivo_themes/default.css
+font-awesome.min.css
+nivo-lightbox.css
+style.css
