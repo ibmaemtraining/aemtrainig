@@ -142,7 +142,7 @@
             </activation>
             <build>
                 <plugins>
-                    <plugin>
+                    <!-- <plugin>
                         <groupId>com.day.jcr.vault</groupId>
                         <artifactId>content-package-maven-plugin</artifactId>
                         <executions>
@@ -158,7 +158,7 @@
                             <failOnError>true</failOnError>
                             <failOnMissingEmbed>true</failOnMissingEmbed>
                         </configuration>
-                     </plugin>
+                     </plugin> -->
                  </plugins>
             </build>
         </profile>
