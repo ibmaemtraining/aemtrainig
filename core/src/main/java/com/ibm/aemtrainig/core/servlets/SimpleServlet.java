@@ -32,7 +32,7 @@ import java.io.IOException;
  * idempotent. For write operations use the {@link SlingAllMethodsServlet}.
  */
 @SuppressWarnings("serial")
-@SlingServlet(paths = "/bin/gopal")
+@SlingServlet(paths = "/bin/suvo")
 
 public class SimpleServlet extends SlingSafeMethodsServlet {
 
