@@ -375,6 +375,17 @@
                 </pluginRepository>
             </pluginRepositories>
         </profile>
+        
+        
+        <profile>
+        	<id>autoInstall</id>
+        	<properties>
+        		<crx.host>localhost</crx.host>
+        		<crx.port>4502</crx.port>
+        		<crx.user>admin</crx.user>
+        		<crx.password>admin</crx.password>
+        	</properties>
+        </profile>
     </profiles>
 
 
